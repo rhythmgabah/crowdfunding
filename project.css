@@ -1,0 +1,139 @@
+*{
+    font-family: 'Clicker Script', cursive;
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Rubik', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
+}
+
+.content {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: 400;
+    font-style: italic;
+    font-feature-settings: "aalt";
+}
+
+#heading {
+    text-align: center;
+    font-style: bold;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: #0c0503;
+    margin: 5vh auto;
+}
+
+.main {
+
+    text-align: center;
+    font-style: bold;
+    line-height: 2;
+    letter-spacing: 1px;
+    width: 600px;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 0px 20px 340px;
+    color: rgb(249, 12, 12);
+}
+
+.carousel-item img{
+    height: 60vh;
+}
+
+.container-fluid img{
+    width: 50px;
+    height: 40px;
+    margin: 8px;
+}
+
+.btn-danger{
+    width: 20vw;
+}
+
+.login-get-started-btn{
+    display: flex;
+    justify-content: center;
+}
+p{
+    margin: 25px auto;
+}
+
+.red-heading{
+    color: rgb(249, 12, 12);
+}
+
+h1{
+    margin: 40px auto;
+}
+
+h4{
+    text-align: center;
+}
+
+.d-grid{
+    margin-bottom: 40px;
+}
+
+.question1{
+    text-align: center;
+    margin: 5vh 20vh;
+}
+
+.img-discription img{
+    width: 300px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.img-discription{
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 40px;
+    padding: 15px;
+}
+
+.img-discription p{
+    text-align: center;
+}
+
+.discription-img-box{
+    display: flex;   
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px auto;
+}
+
+.carsol-nav-cover{
+    display: flex;
+    justify-content: center;
+    margin: 50px 10px;
+    flex-wrap: wrap;
+}
+
+.carsol-btn{
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(241, 235, 235);
+    padding: 12px 24px;    
+}
+
+.carsol-btn:hover{
+    color: rgb(255, 66, 77);
+    background-color: white;
+}
+
+.type-btn{
+    background-color: rgb(241,235,235);
+    border-radius: 30px;
+    text-align: center;
+}
+
+.type-carsol{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.img-carsol img{
+    max-height: 60vh;
+}
